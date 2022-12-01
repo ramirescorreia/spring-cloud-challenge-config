@@ -28,7 +28,7 @@ eureka:
       
 kafka:
   server:
-    url: localhost:9092
+    url: kafka:9092
   topics:
     pedido:
       confirma:
